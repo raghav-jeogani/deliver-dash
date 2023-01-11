@@ -130,4 +130,5 @@ for (let retailerId of retailerIds)
 ## Team Members:
 1. Sayantan Biswas
 2. Abhishek Kumar (https://github.com/AbhishekKumar102K)
+3. Raghav Jeogani (https://github.com/raghav-jeogani)
 3. Rajat Khade (https://github.com/rajat-khade)
